@@ -1,0 +1,117 @@
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.exe.config
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.exe
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.pdb
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.exe
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.pdb
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.Controller_MainForm.resources
+e:\DOCUMENTS\Materials\Programming\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.View.resources
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.exe.config
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.exe
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.pdb
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.exe
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\bin\Debug\Tanks.pdb
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.View.resources
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application\Tanks\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+E:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2018-04-17\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2018-04-17\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2018-04-17\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-04-17\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-14\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.TrustInfo.xml
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\bin\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\bin\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-15\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\bin\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\bin\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.TrustInfo.xml
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\Tanks_Backup2019-07-16\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\bin\Debug\Tanks.exe.config
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\bin\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\bin\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\bin\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\bin\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.View.resources
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.TrustInfo.xml
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.exe.manifest
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.application
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.exe
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.pdb
+e:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\01 Video C#\06 GameDevelop\Tanks_Application_Experimental\TanksFinalVersion\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+e:\_GITHUBRepository\Projects2\Tanks\bin\Debug\Tanks.exe.config
+e:\_GITHUBRepository\Projects2\Tanks\bin\Debug\Tanks.exe.manifest
+e:\_GITHUBRepository\Projects2\Tanks\bin\Debug\Tanks.application
+e:\_GITHUBRepository\Projects2\Tanks\bin\Debug\Tanks.exe
+e:\_GITHUBRepository\Projects2\Tanks\bin\Debug\Tanks.pdb
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.csprojAssemblyReference.cache
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.View.resources
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.TrustInfo.xml
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.exe.manifest
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.application
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.exe
+e:\_GITHUBRepository\Projects2\Tanks\obj\Debug\Tanks.pdb
