@@ -10,7 +10,7 @@ namespace Tanks
 {
     class Packman 
     {
-        PackmanImg packmanImg = new PackmanImg();
+        PackmanImg packmanImg = new PackmanImg(); //2
         Image[] img;
         Image currentImg;
 
