@@ -19,7 +19,7 @@ namespace Tanks
 
     class Model
     {
-        public System.Timers.Timer timerTankCreate;
+        public System.Timers.Timer timerTankCreate; //1
         public System.Timers.Timer timerPackmanCreate;
                 
         public event Strip changeStrip;
