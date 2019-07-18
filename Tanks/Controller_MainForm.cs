@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Media;
 using System.Windows.Media;
-using System.Timers;            //ТАЙМЕР!!!
+using System.Timers;           
 
 
 namespace Tanks
@@ -26,17 +26,13 @@ namespace Tanks
 
         bool isSound;
 
-        bool flagNewGame;  //признак новой игры через меню
+        bool flagNewGame; 
 
-        //список убитых танков
-        public List<PictureBox> picEnemy;
-        //элемент списка List<PictureBox> picEnemy
-        PictureBox pic;
+        public List<PictureBox> picEnemy;        
 
         MediaPlayer soundTanks;
         Uri soundTanksRes = new Uri("Media/Move.wav", UriKind.Relative);
-
-        //SoundPlayer soundBang;        
+    
         MediaPlayer soundBang;
         Uri soundBangRes = new Uri("Media/Bang.wav", UriKind.Relative);
                 
@@ -72,11 +68,7 @@ namespace Tanks
 
             textBoxScore.Name = "0";
 
-            // для получения доступа из Модели в Контроллер, соблюдая структуру MVC паттерна, можно (и нужно) только подписаться на событие
-            //  Модели для выполнения метода, реализованного в Контроллере
-            //model.changeStrip += new Strip(ChangerStatusStripLbl); 
-            // или
-            model.changeStrip += ChangerStatusStripLbl;     //вызов метода, если Looser или Winner
+            model.changeStrip += ChangerStatusStripLbl;     
 
             model.newGameEvent += NewGameSet;
             
@@ -101,9 +93,8 @@ namespace Tanks
         {
             if (isSound)
             {
-                soundProjectile = new MediaPlayer();    //здесь - чтобы последующий звук не прерывал предыдущий
-                soundProjectile.Open(soundProjectileRes);
-                //soundProjectile.Stop();
+                soundProjectile = new MediaPlayer();    
+                soundProjectile.Open(soundProjectileRes);                
                 soundProjectile.Play();
             }
         }                
@@ -117,9 +108,8 @@ namespace Tanks
         {
             if (isSound)
             {
-                soundBang = new MediaPlayer();  //здесь - чтобы последующий звук не прерывал предыдущий
+                soundBang = new MediaPlayer();  
                 soundBang.Open(soundBangRes);
-                //soundBang.Stop();
                 soundBang.Play();
             }
 
@@ -128,16 +118,13 @@ namespace Tanks
             if (model.countTanksBang > 0)
                 picEnemy[model.countTanksBang - 1].Visible = true;
 
-            //если все танки убиты - стоп
             if (model.countTanksBang == model.amountTanks)
                 StopGame(true, true);
             txBxLiveCount.Text = (3 - model.countLoserPackman).ToString();
 
-            //если достигнуто число попаданий в пакмена
             if (model.countLoserPackman == 3)
                 StopGame(false, false);
 
-            //если штаб разбит
             if (model.flagStaffDown)
                 StopGame(false, true);
         }
@@ -183,32 +170,22 @@ namespace Tanks
 
         Invoker inv;               
 
-        void ChangerStatusStripLbl()            //Отображение в строке статуса игры информации
-        {
-            //вызов метода SetValueToStripLbl через делегат с использованием метода Invoke
-            //воизбежание исключительной ситуации, возникающей при использовании в одном потоке элемента, созданного в другом потоке  
-            
-            //Invoke(new Invoker(SetValueToStripLbl)); //вариант без использования ссылки типа делегата Invoker
-            
-            //или если есть ссылка 
+        void ChangerStatusStripLbl()          
+        {            
             inv += SetValueToStripLbl;
 
-            //метод Invoke позволяет выполнять принятый делегатом inv метод в том же потоке (основном), в котором он был создан, 
-            //но вызван в другом потоке (вторичном) 
             Invoke(inv);        
         }
 
         void SetValueToStripLbl()
         {
-            //показывать статус игры в строке состояния главного окна
             GameStatus_Lbl_strp.Text = model.gameStatus.ToString();
             if (isSound)
             {
-                if (model.gameStatus == GameStatus.playing & !flagNewGame)   //если выбрана новая игра через меню, звук не проигрывается до нажатия Start   
+                if (model.gameStatus == GameStatus.playing & !flagNewGame)   
                 {
                     SoundTanksPlay();
                     timerTankSound.Enabled = true;
-                    //model.timeStart = DateTime.Now;
                 }
                 else
                 {
@@ -238,9 +215,7 @@ namespace Tanks
             }
             else
             {
-                //this.Focus();
                 view.Focus();
-                //StartStop_PchBx.Focus();                //Фокус на кнопку чтобы срабатывали повороты пакмена
 
                 if (!flagNewGame)
                 {
@@ -252,8 +227,8 @@ namespace Tanks
                     ChangerStatusStripLbl();
                 }
                 model.timerTankCreate.Enabled = true;
-                flagNewGame = false;           //сброс признака новой игры через меню
-                view.Invalidate();      //при запуске игры необходимо запустить событие Paint для перерисовки танка  
+                flagNewGame = false;           
+                view.Invalidate();      
             }           
         }
 
@@ -274,82 +249,7 @@ namespace Tanks
                 e.Cancel = false;
             else
                 e.Cancel = true;           
-        }               
-
-        //НЕ ИСПОЛЬЗУЕТСЯ
-        private void StartStop_PchBx_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
-        {       
-            /*            
-            if (model.gameStatus == GameStatus.playing)
-            {
-                switch (e.KeyData)       //не зависит от раскладки и регистра нажимаемых клавиш (по умолчанию - Англ. заглавные)
-                {
-                    case Keys.A:
-                        {
-                            model.Packman.NextDirect_x = -1;
-                            model.Packman.NextDirect_y = 0;
-                            model.PackmanRun();
-                        }
-                        break;
-                    case Keys.W:
-                        {
-                            model.Packman.NextDirect_x = 0;
-                            model.Packman.NextDirect_y = -1;
-                            model.PackmanRun();
-                        }
-                        break;
-                    case Keys.D:
-                        {
-                            model.Packman.NextDirect_x = 1;
-                            model.Packman.NextDirect_y = 0;
-                            model.PackmanRun();
-                        }
-                        break;
-                    case Keys.S:
-                        {
-                            model.Packman.NextDirect_x = 0;
-                            model.Packman.NextDirect_y = 1;
-                            model.PackmanRun();
-                        }
-                        break;
-
-                    case Keys.L:             
-                        {
-                            model.Projectile.Direct_x = model.Packman.Direct_x;  //направление движения снаряда
-                            model.Projectile.Direct_y = model.Packman.Direct_y;
-
-                            //расположение снаряда
-                            if (model.Packman.Direct_y == -1)
-                            {
-                                model.Projectile.X = model.Packman.X + 8;
-                                model.Projectile.Y = model.Packman.Y + 2;
-                            }
-                            if (model.Packman.Direct_y == 1)
-                            {
-                                model.Projectile.X = model.Packman.X + 8;
-                                model.Projectile.Y = model.Packman.Y + 8;
-                            }
-                            if (model.Packman.Direct_x == -1)
-                            {
-                                model.Projectile.X = model.Packman.X + 8;
-                                model.Projectile.Y = model.Packman.Y + 8;
-                            }
-                            if (model.Packman.Direct_x == 1)
-                            {
-                                model.Projectile.X = model.Packman.X + 2;
-                                model.Projectile.Y = model.Packman.Y + 8;
-                            }
-
-                            soundProjectile.Stop(); //если предыдущий не остановить, последующий звук не воспроизводится
-                            soundProjectile.Play();                             //звук выстрела
-                        }
-                        break;                        
-                }
-
-                
-            }*/
-            
-        }   
+        }    
        
         private void ExitToolStripMenuItem_Click(object sender, EventArgs e) //Выход из игры через меню
         {
@@ -366,7 +266,6 @@ namespace Tanks
         {
             NewGameToolStripMenuItem_Click(this, null);
         }
-
         void NewGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             flagNewGame = true;            //признак новой игры
@@ -411,6 +310,5 @@ namespace Tanks
             else
                 soundToolStripMenuItem.Image = global::Tanks.Properties.Resources.NoSound;
         }
-
     } 
 }
